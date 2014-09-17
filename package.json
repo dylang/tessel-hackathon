@@ -1,0 +1,26 @@
+{
+  "name": "tessel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accel-mma84": "^0.2.3",
+    "ambient-attx4": "^0.2.1",
+    "ir-attx4": "^0.2.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-tessel": "^1.1.0",
+    "load-grunt-tasks": "^0.6.0"
+  },
+  "hardware": {
+    "grunt": false,
+    "grunt-tessel": false,
+    "load-grunt-tasks": false
+  }
+}
