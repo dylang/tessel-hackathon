@@ -11,8 +11,8 @@
   "dependencies": {
     "accel-mma84": "^0.2.3",
     "ambient-attx4": "^0.2.1",
-    "firebase": "^1.0.21",
-    "ir-attx4": "^0.2.4"
+    "ir-attx4": "^0.2.4",
+    "request": "^2.42.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
